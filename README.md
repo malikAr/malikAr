@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am currently working as the MAC/iOS Lead<br>I am currently looking to collaborate in AI  and Python dev<br>I am currently learning Data Analytics and AI/ML
+👋 Hi, I'm Arun Malik  
+
+🚀 Senior iOS & Mobile Developer with 10+ years of experience building scalable, high-performance mobile applications using Swift and iOS frameworks. I have strong expertise in end-to-end mobile development, architecture, performance optimization, and delivering production-ready apps.
+
+📊 Currently expanding my skill set into Data Analytics and AI/ML, with hands-on experience in SQL, Python, Tableau, and data-driven problem solving. I’m passionate about combining mobile engineering with data insights to build smarter, more impactful products.
+
+💡 Interests: Mobile Architecture • Data Analytics • AI/ML • System Design  
+📚 Always learning, building, and exploring future-ready technologies.
 
 
 ## 🌐 Socials:
